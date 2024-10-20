@@ -1,0 +1,47 @@
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\OpenCV C#.exe
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\OpenCV C#.deps.json
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\OpenCV C#.runtimeconfig.json
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\OpenCV C#.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\OpenCV C#.pdb
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\Emgu.CV.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\obj\Debug\net8.0\OpenCV C#.csproj.AssemblyReference.cache
+C:\Users\Twitter Ratio\Documents\OpenCV C#\obj\Debug\net8.0\OpenCV C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Twitter Ratio\Documents\OpenCV C#\obj\Debug\net8.0\OpenCV C#.AssemblyInfoInputs.cache
+C:\Users\Twitter Ratio\Documents\OpenCV C#\obj\Debug\net8.0\OpenCV C#.AssemblyInfo.cs
+C:\Users\Twitter Ratio\Documents\OpenCV C#\obj\Debug\net8.0\OpenCV C#.csproj.CoreCompileInputs.cache
+C:\Users\Twitter Ratio\Documents\OpenCV C#\obj\Debug\net8.0\OpenCV C#.csproj.Up2Date
+C:\Users\Twitter Ratio\Documents\OpenCV C#\obj\Debug\net8.0\OpenCV C#.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\obj\Debug\net8.0\refint\OpenCV C#.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\obj\Debug\net8.0\OpenCV C#.pdb
+C:\Users\Twitter Ratio\Documents\OpenCV C#\obj\Debug\net8.0\OpenCV C#.genruntimeconfig.cache
+C:\Users\Twitter Ratio\Documents\OpenCV C#\obj\Debug\net8.0\ref\OpenCV C#.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-arm64\native\cvextern.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-x64\native\cvextern.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-x64\native\libusb-1.0.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-x64\native\opencv_videoio_ffmpeg490_64.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-x86\native\cvextern.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-x86\native\libusb-1.0.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-x86\native\opencv_videoio_ffmpeg490.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-arm64\native\concrt140.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-x64\native\concrt140.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-x86\native\concrt140.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-x86\native\vcruntime140.dll

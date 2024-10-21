@@ -45,3 +45,4 @@ C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-x86\nat
 C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140_atomic_wait.dll
 C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
 C:\Users\Twitter Ratio\Documents\OpenCV C#\bin\Debug\net8.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\Twitter Ratio\Documents\OpenCV C#\obj\Debug\net8.0\OpenCV C#.sourcelink.json
